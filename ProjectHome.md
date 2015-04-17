@@ -1,0 +1,1 @@
+Proyecto usado para probar la funcionalidad de subversión en eclipse y google code como repositorio de proyectos de software
